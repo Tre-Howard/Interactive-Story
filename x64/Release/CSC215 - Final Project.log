@@ -1,0 +1,8 @@
+﻿  Story.cpp
+C:\Users\Tre Howard\source\repos\CSC215 - Final Project\Story.cpp(100,23): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating code
+  2 of 210 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CSC215 - Final Project.vcxproj -> C:\Users\Tre Howard\source\repos\CSC215 - Final Project\x64\Release\CSC215 - Final Project.exe
